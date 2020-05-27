@@ -1,0 +1,29 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+
+title: Marketing & Outreach Working Group
+description: "ISC Working Group to cover marketing & outreach efforts"
+baseurl: "/marketing-wg" # the subpath of your site (case sensitive)
+url: "https://innersourcecommons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# links will show up as reference links on each role page
+links:
+  # Chat is a link to the main chat room for your community
+  chat: https://innersourcecommons.slack.com/archives/CUWFGQJ8K
+  # Folder is where any agendas or notes lives, typically these live on the InnerSourceCommons Google Drive.
+  folder: https://drive.google.com/drive/folders/1Bsb6p_0y_xhbJOdzz6hMShCNUovUVXJt?ths=true
+  # Calendar is a link to a shared calendar showing upcoming invitations.
+  calendar: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1562254892028500/
+
+remote_theme: mrsanz/jekyll-roles-theme
