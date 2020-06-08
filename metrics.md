@@ -18,15 +18,18 @@ The Marketing & Outreach Working Group covers a broad scope of activites, propos
 
 ## High Level Metrics
 
-Market Adoption of InnerSource:
+### Market Adoption of InnerSource
 * Number of individuals practicing InnerSource
 * Number of organisations practicing InnerSource
 * Number of organisations creating tools or services supporting the practice of InnerSource
+* Regional spread of adoption
 
-Health of the ISC Community:
+### Health of the ISC Community
 * Number of participants
 * Number of active participants (e.g. have contributed to working groups in past 12 months)
+* Number of organizations represented
 * Growth of community - number of new Slack members
+* Regional representation
 
 ## Activity Metrics
 
