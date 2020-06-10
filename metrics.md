@@ -4,6 +4,8 @@
 
 The ISC Marketing & Outreach Working Group's goal is to "move the needle" when it comes to InnerSource. This document is to outline the measurements of success for the Working Group's activites and efforts.
 
+Metrics report can be found in the Marketing & Outreach folder on the ISC Google Drive. 
+
 ## Working Principles
 
 We have agreed the following: 
@@ -45,21 +47,34 @@ We have a number of channels and ways to communicate with ISC community and the 
 * Website Visits
 
 ##### Twitter:
-* Followers
-* Tweet Impressions
-* Mentions
+
+| Metric                    | Goals | How do we measure?                                                                 |
+| ------------------------- | ---------------- | ---------------------------------------------------------------------- |
+| Followers                   | TBD           | Manually Reported                    |
+| New Followers               | TBD            | Manually Reported  |
+| Tweet Impressions            | TBD            | Manually Reported  |
+| Mentions           | TBD            | Manually Reported  |
 
 ##### YouTube:
-* Subscribers
-* Views of Content
-* Watch time
-* Top videos 
-* % View time
+
+| Metric                    | Goals | How do we measure?                                                                 |
+| ------------------------- | ---------------- | ---------------------------------------------------------------------- |
+| Channel Subscribers                  | TBD           | Manually Reported                    |
+| New Subscribers              | TBD            | Manually Reported  |
+| Views of Content           | TBD            | Manually Reported  |
+| Watch time          | TBD            | Manually Reported  |
+| Impressions          | TBD            | Manually Reported  |
+| Unique Viewers         | TBD            | Manually Reported  |
 
 ##### LinkedIn:
-* Views of content
-* Followers of org page
-* Members of group page
+
+| Metric                    | Goals | How do we measure?                                                                 |
+| ------------------------- | ---------------- | ---------------------------------------------------------------------- |
+| Page Views by Visitors                 | TBD           | Manually Reported                    |
+| Unique Visitors             | TBD            | Manually Reported  |
+| Followers of ISC Org page          | TBD            | Manually Reported  |
+| New Followers          | TBD            | Manually Reported  |
+| Members of ISC Group Page        | TBD            | Manually Reported  |
 
 ##### Facebook
 Although we have a Facebook page, it currently does not receive many views.
@@ -67,10 +82,18 @@ Although we have a Facebook page, it currently does not receive many views.
 For discussion: do we focus on building FB following?
 
 ##### GitHub:
-* GitHub Stars ?
+* GitHub Stars 
+* Contributors 
+* Followers
 
 ##### Slack:
-* ?
+* Members
+* Weekly Active Members
+
+##### ISC Committees
+
+* Members per committee
+* Active Members by committee (estimated)
 
 ### Events
 
