@@ -1,8 +1,6 @@
-# marketing-wg
-Marketing &amp; Outreach working group's board, documents. 
+# Marketing & Outreach Working Group (marketing-wg)
 
-# Documents elsewhere
-- The social media, infra & kitchensink spreadsheet: https://docs.google.com/spreadsheets/d/15JVvBCFHjyxcZRTiHitcwW5i5IysIc_wKuZNsL6syrU/edit#gid=0 
+This repo contains documents for the Marketing & Outreach Working Group. The repo also contains the [project board](https://github.com/InnerSourceCommons/marketing-wg/projects/1) that we use as to share what we are working on.
 
 ## Background
 
@@ -33,7 +31,11 @@ Current ideas for scope include:
 * ISC Ambassadors to other orgs 
 * State of InnerSource Survey 
 
-Notes:
+## Notes
 
 Many of the activities will be done in collaboration with other working groups (e.g. website changes to the Learning Path page will be managed/approved by Learning Path working group). It’s been proposed that we should have a Learning Path Working Group member attend Outreach & Marketing meetings and have a report on Outreach & Marketing activities regularly at Learning Path Working Group meetings to facilitate close collaboration and alignment. 
 Other related working groups may be set up to deal with specific initiatives (e.g. events like the Summits)
+
+## References
+
+- The social media, infra & kitchensink spreadsheet: https://docs.google.com/spreadsheets/d/15JVvBCFHjyxcZRTiHitcwW5i5IysIc_wKuZNsL6syrU/edit#gid=0 
