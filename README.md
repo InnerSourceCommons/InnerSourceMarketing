@@ -1,6 +1,12 @@
 # Marketing & Outreach Working Group (marketing-wg)
 
-This repo contains documents for the Marketing & Outreach Working Group. The repo also contains the [project board](https://github.com/InnerSourceCommons/marketing-wg/projects/1) that we use as to share what we are working on.
+This repo was originally created to contain documents for the Marketing & Outreach Working Group. 
+
+Update from June 2021: It is in the process of being transferred to the public repo here: https://github.com/InnerSourceCommons/InnerSourceMarketing
+
+## Original Details
+
+The repo also contains the [project board](https://github.com/InnerSourceCommons/marketing-wg/projects/1) that we use as to share what we are working on.
 
 ## Background
 
