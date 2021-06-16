@@ -2,7 +2,7 @@
 
 This repo was originally created to contain documents for the Marketing & Outreach Working Group. 
 
-Update from June 2021: It is in the process of being transferred to the public repo here: https://github.com/InnerSourceCommons/InnerSourceMarketing
+Update from June 2021: It is in the process of converted into a public board for easier on-boarding.
 
 ## Original Details
 
