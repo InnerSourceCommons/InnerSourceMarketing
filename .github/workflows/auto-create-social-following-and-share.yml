@@ -1,0 +1,30 @@
+# Found the issue-bot GHA used in this GitHub documentation: https://docs.github.com/en/actions/guides/scheduling-issue-creation
+# https://github.com/marketplace/actions/issue-bot-action
+# https://github.com/marketplace/actions/extract-issue-template-fields
+name: IssueOps - Create issue for "Social following and share" once the previous issues is closed
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  build:
+    if:  startsWith(github.event.issue.title, 'Social following and share')
+    runs-on: ubuntu-latest
+    steps:
+    # Get the title, labels, assignees, and body of the issue template at the given path
+    - uses: imjohnbo/extract-issue-template-fields@v1
+      id: extract
+      with:
+        path: .github/ISSUE_TEMPLATE/social-following-and-share.md
+
+    # Create new issue with assignees, labels, title, and body.
+    # Also place the new issue in project #1, column "To Do"
+    - uses: imjohnbo/issue-bot@v3
+      with:
+        assignees: ${{ steps.extract.outputs.assignees }}
+        labels: ${{ steps.extract.outputs.labels }}
+        title: ${{ steps.extract.outputs.title }}
+        body: ${{ steps.extract.outputs.body }}
+        project: 1
+        column: "To do"
