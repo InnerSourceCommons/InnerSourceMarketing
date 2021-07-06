@@ -17,7 +17,7 @@ Description: [Community Call Description for website]
 
 ### Steps to Updating the Website
 
-- [ ] Go to the _index.md file and change the details within the {{<notice>}} section. Update the Link, the date and the name of the event.
+- [ ] Go to the _index.md file and change the details within the {{`<notice>`}} section. Update the Link, the date and the name of the event.
 - [ ] Download the picture of the event from eventbrite and rename it: meetup-mm-yy.jpg (where mm is the month of the event and yy is the year of the event) 
 - [ ] Upload the picture of the event in the folder: static/images/events
 - [ ] Go to the folder: content/events and find the latest event file. It should be named under the format: meetup-mm-20yy.md
