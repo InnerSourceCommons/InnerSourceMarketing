@@ -1,4 +1,4 @@
-# Marketing & Outreach Working Group (marketing-wg)
+# Marketing & Outreach Working Group (InnerSourceMarketing)
 
 This repo was originally created to contain documents for the Marketing & Outreach Working Group. 
 
