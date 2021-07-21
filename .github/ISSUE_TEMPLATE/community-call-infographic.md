@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Purpose & Details
+### Purpose & Details
 Create an infographic based on the Comunity Call Takeaways document. 
 
 Acceptance Criteria
