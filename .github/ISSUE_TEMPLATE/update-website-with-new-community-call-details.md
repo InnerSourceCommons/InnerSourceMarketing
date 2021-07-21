@@ -4,7 +4,6 @@ about: Use this for community call website update
 title: Update website with new Community Call Details
 labels: website
 assignees: ''
-
 ---
 
 ### Purpose and Details
@@ -17,13 +16,13 @@ Description: [Community Call Description for website]
 
 ### Steps to Updating the Website
 
-- [ ] Go to the _index.md file and change the details within the {{`<notice>`}} section. Update the Link, the date and the name of the event.
-- [ ] Download the picture of the event from eventbrite and rename it: meetup-mm-yy.jpg (where mm is the month of the event and yy is the year of the event) 
-- [ ] Upload the picture of the event in the folder: static/images/events
-- [ ] Go to the folder: content/events and find the latest event file. It should be named under the format: meetup-mm-20yy.md
+- [ ] Go to the `_index.md` file and change the details within the ``{{`<notice>`}}`` section. Update the Link, the date and the name of the event.
+- [ ] Download the picture of the event from eventbrite and rename it: `meetup-mm-yyyy.jpg` (where mm is the month of the event and yyyy is the year of the event) 
+- [ ] Upload the picture of the event in the folder: `static/images/events`
+- [ ] Go to the folder: `content/events` and find the latest event file. It should be named under the format: `meetup-mm-20yy.md`
 - [ ] Change the "featured:" value to "false"
-- [ ] Create a new event file in the folder: content/events
-- [ ] Name the file: meetup-mm-2021.md (where mm is the month the event is taking place) 
+- [ ] Create a new event file in the folder: `content/events`
+- [ ] Name the file: `meetup-mm-2021.md` (where mm is the month the event is taking place) 
 - [ ] Copy and paste the following code in the file and insert the required information under the following headings: "title:" (event title), "redirect:" (link to the event), "image:" (make sure the name of the image you imported is the same as the name you insert here meetup-[mm]-[yy].JPG), "date:" (today's date). And finally, make sure to update the description of the event below. 
 
 ```
