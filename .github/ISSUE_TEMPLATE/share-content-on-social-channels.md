@@ -1,7 +1,6 @@
 ---
 name: Share content on social channels
-about: Use this to let the marketing team know about content we should share on social
-  channels
+about: Use this to let the marketing team know about content we should share on social channels
 title: Share content on social channels
 labels: ISC OPS
 assignees: ''
