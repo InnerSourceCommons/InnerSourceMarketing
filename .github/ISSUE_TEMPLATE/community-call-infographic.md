@@ -4,7 +4,6 @@ about: Use this to create an issue asking for an infographic to be created
 title: 'Community Call Takeaways Infographic '
 labels: events
 assignees: ''
-
 ---
 
 ### Purpose & Details
