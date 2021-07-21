@@ -1,7 +1,6 @@
 ---
 name: Community Call Anonymised Discussion
-about: Use this to create an issue for anonymising the community call discussion document
-  as per Chatham House rule
+about: Use this to create an issue for anonymising the community call discussion document as per Chatham House rule
 title: Create Community Call Anonymised discussion document
 labels: good first issue, events
 assignees: ''
