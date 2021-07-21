@@ -10,7 +10,7 @@ assignees: ''
 ### Purpose & Details
 Create a shareable list of insights from our last Community Call discussion. These insights will be used to create content for our social channels.
 
-Acceptance Criteria
+### Acceptance Criteria
  - [ ] We have checked the Marketing Slack channel for the community call anonymised discussion document.
  - [ ] We have produced an article detailing the takeaways from the community call in Google Drive.
  - [ ] We have shared the draft in the Marketing channel on Slack asking people to contribute/ provide feedback on the document
