@@ -4,7 +4,6 @@ about: Use this to let the marketing team know about content we should share on 
 title: Share content on social channels
 labels: ISC OPS
 assignees: ''
-
 ---
 
 Purpose & Details
