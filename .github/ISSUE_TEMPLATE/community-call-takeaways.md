@@ -4,7 +4,6 @@ about: Use this issue to request the creation of a document on Community Call ta
 title: Community Call Takeaways
 labels: good first issue, events
 assignees: ''
-
 ---
 
 ### Purpose & Details
