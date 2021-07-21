@@ -4,7 +4,6 @@ about: Use this to create an issue for anonymising the community call discussion
 title: Create Community Call Anonymised discussion document
 labels: good first issue, events
 assignees: ''
-
 ---
 
 ### Purpose & Details
