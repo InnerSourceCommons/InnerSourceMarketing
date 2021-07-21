@@ -23,7 +23,7 @@ Description: [Community Call Description for website]
 - [ ] Change the "featured:" value to "false"
 - [ ] Create a new event file in the folder: `content/events`
 - [ ] Name the file: `meetup-mm-2021.md` (where mm is the month the event is taking place) 
-- [ ] Copy and paste the following code in the file and insert the required information under the following headings: "title:" (event title), "redirect:" (link to the event), "image:" (make sure the name of the image you imported is the same as the name you insert here meetup-[mm]-[yy].JPG), "date:" (today's date). And finally, make sure to update the description of the event below. 
+- [ ] Copy and paste the following code in the file and insert the required information under the headings. Then make sure to update the description of the event below. 
 
 ```
 ---
@@ -31,7 +31,7 @@ title: [Title of The Event Goes Here]
 type: redirects
 redirect: "[Link to the event goes here]"
 image: "images/events/meetup-[mm]-[yy].JPG" 
-date: 2021-05-05
+date: [Today's date goes here in the format: yyyy-mm-dd Note: DON'T use the date of the event as it will not show up on the website]
 featured: true
 ---
 
