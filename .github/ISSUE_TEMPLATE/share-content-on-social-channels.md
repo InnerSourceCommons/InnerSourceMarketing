@@ -10,7 +10,7 @@ assignees: ''
 Share content with our followers on social media.
 
 Content to be shared
-[Plese attach the infographic to this issue or include any content you would like us to share on Linkedin and Twitter here]
+[Please attach the infographic to this issue or include any content you would like us to share on Linkedin and Twitter here]
 
-Acceptance Criteria
+### Acceptance Criteria
  - [ ] We have shared the content on Twitter and LinkedIn.
