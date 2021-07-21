@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Purpose & Details
+### Purpose & Details
 Create a shareable list of insights from our last Community Call discussion. These insights will be used to create content for our social channels.
 
 Acceptance Criteria
