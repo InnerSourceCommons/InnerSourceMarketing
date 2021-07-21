@@ -45,6 +45,7 @@ You can delete the whole `### Title` section from here.
 - [ ] please edit the InnerSource in Action page located at the following path: content/community/action.md
 - [ ] please add your logo in the correct place in the list, following alphabetical order, by using the following code:
 {{< company name="organisation_name" image="/images/logos/organisation_name.png" >}}{{< /company >}}
+- [ ] please specify in the Pull Request why you are adding the logo to the site (E.g.: I work for the company and know they are doing InnerSource)
 
 ### Acceptance Criteria
 
