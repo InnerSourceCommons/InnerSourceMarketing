@@ -2,8 +2,9 @@
 name: Community Call Takeaways
 about: Use this issue to request the creation of a document on Community Call takeaways
 title: Community Call Takeaways
-labels: good first issue, events
+labels: events, good first issue
 assignees: ''
+
 ---
 
 ### Purpose & Details
