@@ -36,6 +36,7 @@ You can delete the whole `### Title` section from here.
 - [x] Give the issue the title specified above
 - [ ] Delete the `### Title` section above
 - [ ] Upload the logo of the organisation to this issue in an organisation_name.png format.
+- [ ] Provide a link to evidence of the company doing InnerSource (this could be an article or a video)
 
 ### Steps to adding the logo to the website:
 
@@ -43,8 +44,9 @@ You can delete the whole `### Title` section from here.
 - [ ] the logo file must be named following the template: organisation_name.png
 - [ ] the logo file must be uploaded in the following folder: static/images/logos of the InnerSource Commons website repository
 - [ ] please edit the InnerSource in Action page located at the following path: content/community/action.md
-- [ ] please add your logo in the correct place in the list, following alphabetical order, by using the following code:
-{{< company name="organisation_name" image="/images/logos/organisation_name.png" >}}{{< /company >}}
+- [ ] please add the logo in the correct place in the list, following alphabetical order and make sure to include the link to the evidence, by using the following code (if the evidence is an article, replace 'video' with 'article' in the code below):
+{{< company name="[Company Name]" image="/images/logos/[company_name].png" video="[link to video]" >}}
+{{< /company >}}
 - [ ] please specify in the Pull Request why you are adding the logo to the site (E.g.: I work for the company and know they are doing InnerSource)
 
 ### Acceptance Criteria
