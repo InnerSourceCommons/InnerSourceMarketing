@@ -12,24 +12,24 @@ assignees: ''
 Please update the website with the new Community Call details as follows:
 Name: [Community Call Name]
 Link: [Community Call Event Brite Link]
-Date: [dd/mm/yy]
+Date: [yy/mm/dd]
 Description: [Community Call Description for website]
 
 ### Steps to Updating the Website
 
 - [ ] Go to the `_index.md` file and change the details within the ``{{`<notice>`}}`` section. Update the Link, the date and the name of the event.
-- [ ] Download the picture of the event from eventbrite and rename it: `meetup-dd-mm-yyyy.jpg` (where dd is the date, mm is the month and yyyy is the year of the event) 
+- [ ] Download the picture of the event from eventbrite and rename it: `meetup-yyyy-mm-dd.jpg` (where dd is the date, mm is the month and yyyy is the year of the event) 
 - [ ] Upload the picture of the event in the folder: `static/images/events`
 - [ ] Create a new event file in the folder: `content/events`
-- [ ] Name the file: `meetup-dd-mm-2021.md`  
+- [ ] Name the file: `meetup-yyyy-mm-dd.md`  
 - [ ] Copy and paste the following code in the file and insert the required information under the headings. Then make sure to update the description of the event below. 
 
 ```
 ---
 title: [Title of The Event Goes Here]
 type: redirects
-redirect: "[Link to the event goes here]"
-image: "images/events/meetup-[mm]-[yy].JPG" 
+redirect: "[Shortened Link to the event goes here]"
+image: "images/events/[image-name]" 
 date: yyyy-mm-dd [The event date goes here]
 publishDate: yyyy-mm-dd [Today's date goes here]
 ---
