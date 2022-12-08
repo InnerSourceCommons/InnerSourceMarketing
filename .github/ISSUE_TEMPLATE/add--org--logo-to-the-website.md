@@ -1,8 +1,8 @@
 ---
-name: Add [Org] Logo to the Website
+name: Add a new Org Logo to the Website - Stories Page
 about: Use this to add your company's logo to the InnerSource in Action page on the
   website
-title: Add [organisation name] logo to the InnerSource in Action page
+title: Add [organisation name] logo to the Stories Page
 labels: website
 assignees: ''
 
@@ -10,56 +10,59 @@ assignees: ''
 
 <!--
 README:
-The template below provides the format for how to create an issue around adding a new logo to the website.
+The template below capures essential instructions to add a new logo to the website.
 
-Please ensure to carry out the steps outlined in the '### Issue Checklist'.
+If you are NOT comfortable with using git/GitHub:
+- provide the information outlined in '### Issue Checklist'
+- then click "Submit new issue"
+- somebody else will pick up this issue and perform the remaining steps.
 
-You do not need to change anything else in the following 2 sections (### Steps to adding the logo to the website and ### Acceptance criteria).
+However if you are familiar with git/GitHub you can do most of this on your own:
+- provide the information outlined in '### Issue Checklist'
+- assign the issue to yourself
+- then click 'Submit new issue'
+- perform the tasks listed in Steps to add the logo to the website" 
 
-If you are familiar with GitHub and are confident in performing the steps below, please assign the issue to yourself and carry out the work.
-Alternatively, you can complete the help needed section at the bottom and just create the issue.
-Someone else will pick it up and add the logo to the website.
-
+In case of any questions, add those questions to the issue itself.
 -->
-
-### Title
-
-Add [organisation name] logo to the InnerSource in Action page
-
-Please replace [organisation name] with your company name and place this short summary in the title of the GitHub issue.
-
-You can delete the whole `### Title` section from this issue.
 
 ### Issue Checklist
 
-- [ ] Check the [InnerSource in Action](https://innersourcecommons.org/community/action/) page on the website to see if the logo of your organisation is already featured
-- [x] Give the issue the title specified above
-- [ ] Delete the `### Title` section above
-- [ ] Upload the logo of the organisation to this issue (name the logo according to the template `organisation_name.png`)
-- [ ] Provide a link to evidence of the company doing InnerSource (this could be an article or a video)
+_Note:_ This is done by the person that wants to add their org logo to the website.
 
-### Steps to add the logo to the website:
+- [ ] Replace `[organisation name]` with your company name in the title of this GitHub issues.
+- [ ] Check the [Stories Page][stories] on the website to see if the logo of your organisation is already featured
+- [ ] Upload the logo of your organisation to this issue. Nname the logo according to the template `organisation_name.png`.
+- [ ] Provide a link to evidence of the company doing InnerSource (this could be an article, a video, or a [pattern][patterns-repo]
 
-- [ ] fork the [website repository](https://github.com/InnerSourceCommons/innersourcecommons.org)
+### Steps to add the logo to the website
+
+_Note:_ This is typically done by a website administartors (or by you, if you are familiar with git/GitHub).
+
+- [ ] fork the [website repository][website-repo]
 - [ ] add the logo file to the folder `static/images/logos`, following this template for naming the logo file: `organisation_name.png`
-- [ ] edit the InnerSource in Action page located at: `content/community/action.md`
-- [ ] add the logo in the correct place in the list, following alphabetical order. Make sure to include the link to the evidence, by using the following code (if the evidence is an article, replace 'video' with 'article' in the code below).
+- [ ] edit the file for Stories Page located at: `content/en/stories/_index.md`
+- [ ] add the logo in the correct place in the list, following alphabetical order. Include the link to the evidence, by using the following code snippet. If the evidence is an article, replace 'video' with 'article'.
 ```
 {{< company name="[Company Name]" image="/images/logos/[organisation_name].png" video="[link to evidence]">}}
 {{< /company >}}
 ```
-- [ ] if you want to provide a quote from the video/article, please extend the entry as shown below:
+- [ ] if you want to provide an extra quote about how your org is applying InnerSource, extend the entry like this:
 ```
-{{< company name="[Company Name]" image="/images/logos/[organisation_name].png" video="[link to evidence]" author_name="..." author_title="...">}}
+{{< company name="[Company Name]" image="/images/logos/[organisation_name].png" video="[link to evidence]" author_name="[author name here]" author_title="[author title/role here]">}}
 [quote here]
 {{< /company >}}
 ```
-- [ ] create a Pull Request and specify in the Pull Request why you are adding the logo to the site (e.g.: "I work for the company and know they are doing InnerSource")
+- [ ] create a Pull Request. Specify in the Pull Request why you are adding the logo to the site e.g.: "I work for the company and know they are doing InnerSource".
 
 ### Acceptance Criteria
 
 - The logo file is named according to the convention: `organisation_name.png`
-- The logo file has been uploaded to the right folder
-- The logo appears on the InnerSource in Action page in the correct place based on alphabetical order
+- The logo file has been uploaded to the correct folder
+- The logo appears on the [Stories Page][stories] in the correct place based on alphabetical order
 
 ### Help Needed / Blockers
+
+[stories]: https://innersourcecommons.org/stories/
+[website-repo]: https://github.com/InnerSourceCommons/innersourcecommons.org
+[patterns-repo]: https://github.com/InnerSourceCommons/InnerSourcePatterns
