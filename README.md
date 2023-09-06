@@ -8,6 +8,9 @@ Update from June 2021: It is in the process of converted into a public board for
 
 The repo also contains the [project board](https://github.com/InnerSourceCommons/marketing-wg/projects/1) that we use as to share what we are working on.
 
+Potential speakers are represented on the board with the `Speaker` label.
+A Speaker card is moved to "Done" when that person is confirmed to speak at a specific ISC event.
+
 ## Background
 
 In May 2020, it was proposed we set up a new ISC working group to look at Outreach and Marketing. This document is to give an overview of the working group. It is a starting point and intended to evolve as we work through some of the open questions below. 
