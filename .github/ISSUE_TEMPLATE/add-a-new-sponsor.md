@@ -23,7 +23,8 @@ Checklist for new Sponsors:
 - [ ] Duplicate the first slide
 - [ ] Add the new Sponsor to the slide under the relevant heading (Our Partners or Our Supporters)
 
-## Update social media
+## Update community channels and social media
+- [ ] Create a slack post to announce new sponsor
 - [ ] Create a LinkedIn post
 - [ ] Create a Twitter post 
 
