@@ -1,7 +1,7 @@
 ---
 name: ISC Gathering Lead
 about: Steps of an ISC Gathering Lead
-title: "[CONFERENCE_NAME] [CONFERENCE_DATE(S)]"
+title: "[CONFERENCE_NAME] [CONFERENCE_DATE(S)] (Gathering Lead)"
 labels: Gathering Lead
 assignees: ''
 
@@ -17,7 +17,7 @@ Check them off as you go!
 Feel free to add any more ideas that you have!
 
 # Immediately
-- [ ] Fill in the conference name and dates as in the title.
+- [ ] Fill in the conference name and dates in the title.
 - [ ] Assign this issue to yourself.
 
 # 4 Weeks Prior
