@@ -48,6 +48,7 @@ It could be as simple as meeting at a specified location for lunch during the co
 # Week After
 - [ ] Share back in the [#marketing] channel how your experience went.
 Better, yet, attend a [#marketing] working group meeting and share on the call!
+- [ ] Archive your event channel.
 
 
 [#general]: https://app.slack.com/client/T04PXKRM0/C04PXKRN4
