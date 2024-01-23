@@ -26,20 +26,23 @@ Feel free to add any more ideas that you have!
 Format is `#event-[conference_name]-[year]`.
 - [ ] Let people know in the [#general] channel about the conference.
 Encourage them to attend and to join your new Slack channel
+- [ ] Plan some type of in-person get-together for ISC attendees.
+Prefer this to happen as early on as you can.
+It could be as simple as meeting at a specified location for a meal or chat.
+- [ ] Let everyone know in the event channel what is the get-together plan.
+
 
 # 2 Weeks Prior
-- [ ] Plan some type of in-person get-together for ISC attendees.
-It could be as simple as meeting at a specified location for lunch during the conference or a dinner the night before.
-- [ ] Let everyone know in the event channel what is the get-together plan.
+- [ ] Remind everyone in your Slack channel of the get-together plan.
 - [ ] Remind people in the [#general] channel about the conference and your Slack channel.
 
 # 1 Week Prior
-- [ ] Remind everyone of the get-together plan.
+- [ ] Remind everyone in your Slack channel of the get-together plan.
 - [ ] Pack the ISC stickers.
 - [ ] Remind people in the [#general] channel about the conference and your Slack channel.
 
 # Conference Day(s)
-- [ ] Remind everyone of the get-together plan.
+- [ ] Remind everyone in your Slack channel of the get-together plan.
 - [ ] Hold the get-together.
 - [ ] Hand out ISC stickers wherever you can.
 - [ ] If you meet anyone feels InnerSource-related, invite them to join the [InnerSource Commons Slack].
@@ -48,8 +51,7 @@ It could be as simple as meeting at a specified location for lunch during the co
 # Week After
 - [ ] Share back in the [#marketing] channel how your experience went.
 Better, yet, attend a [#marketing] working group meeting and share on the call!
-- [ ] Archive your event channel.
-
+- [ ] Archive your Slack channel.
 
 [#general]: https://app.slack.com/client/T04PXKRM0/C04PXKRN4
 [InnerSource Commons Slack]: https://app.slack.com/client/T04PXKRM0
