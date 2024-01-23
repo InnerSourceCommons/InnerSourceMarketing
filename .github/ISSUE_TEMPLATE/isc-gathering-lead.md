@@ -53,7 +53,6 @@ It could be as simple as meeting at a specified location for a meal or chat.
 Better, yet, attend a [#marketing] working group meeting and share on the call!
 - [ ] Archive your Slack channel.
 
-
 [#general]: https://app.slack.com/client/T04PXKRM0/C04PXKRN4
 [InnerSource Commons Slack]: https://app.slack.com/client/T04PXKRM0
 [#marketing]: https://app.slack.com/client/T04PXKRM0/CUWFGQJ8K
