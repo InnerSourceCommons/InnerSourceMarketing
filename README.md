@@ -29,13 +29,14 @@ Scope will change over time depending on priorities and resources.
 Current ideas for scope include:
 * Managing ISC brand and presence 
 * Managing ISC website
+* Running Community Calls (see and add to the [board](https://github.com/orgs/InnerSourceCommons/projects/13/views/1))
 * ISC Events
 * Speaker Bureau and ISC presence at other events.
 * Managing ISC social channels and comms (e.g. mailing lists)
 * Promoting ISC, assets and resources
 * ISC Survey to assess adoption in the market.
 * ISC Ambassadors to other orgs 
-* State of InnerSource Survey 
+* State of InnerSource Survey
 
 ## Notes
 
