@@ -18,9 +18,9 @@ Once a new sponsor is confirmed, an email address for a key contact will be shar
 - [ ] When the sponsor responds, add their information in the 'Sponsor Contact Details' google sheet (https://docs.google.com/spreadsheets/d/1HVeVCb9V5lk6UfLZ3PZkTGvoYQcro5epmVahsFq7ucE/edit?usp=sharing).
 
 ## Update the 'New Sponsor Announcement Slide' for forthcoming announcements on social
-When we post on social, we use a slide welcoming the new sponsor. This slide can be found on our canva site. You will need edit access for this site. The slide is used on our announcements on LinkedIn and on X. It can also be shared on the Executive Director's slack announcement to the general channel. Depending on the size or shape of the logo, the slide may need to be tweaked slightly.
+When we post on social, we use a slide welcoming the new sponsor. This slide can be found on our Sponsors folder: (https://drive.google.com/drive/folders/1thHxyqFYfolfPkp7pe_ZccmyXMedKCEA). The slide is used on our announcements on Slack, LinkedIn and on X. It can also be shared on the Executive Director's slack announcement to the general channel. Depending on the size or shape of the logo, the slide may need to be tweaked slightly.
 
-- [ ] Go to Canva and find the 'Sponsor Announcements' file (https://www.canva.com/design/DAFmp4U436s/-IPHFFjXQBB2noCYikGjlw/edit?utm_content=DAFmp4U436s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)n)
+- [ ] Go to Sponsor Slides: (https://docs.google.com/presentation/d/1KpDdwv_YziTvdl5arFcCCVs31l547VGcOUT9BY96XYA/edit#slide=id.g25531f56050_7_0)
 - [ ] Duplicate the first slide
 - [ ] Update text to either 'Partner' or 'Supporter'. 
 - [ ] Add the new Sponsor's logo to the slide.
@@ -44,6 +44,7 @@ An announcement using the 'New Sponsor Announcement' Slide is made on LinkedIn a
 - Add text for LinkedIn post
 - Add text for Twitter post
 - Add text for Slack channel post
+- Add text for Newsletter
 - [ ] Share content with Executive Director for final sign off
 - [ ] Agree with Executive Director on the schedule for him/her making the slack announcement and when to update the sponsors page on the website.
 
