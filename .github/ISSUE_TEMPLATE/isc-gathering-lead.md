@@ -19,6 +19,7 @@ Feel free to add any more ideas that you have!
 # Immediately
 - [ ] Fill in the conference name and dates in the title.
 - [ ] Assign this issue to yourself.
+- [ ] Add this issue to the `Marketing WG` board (In Progress status).
 
 # 4 Weeks Prior
 - [ ] Introduce yourself in the [#marketing] channel and ask for some ISC stickers to be shipped to you.
