@@ -59,7 +59,7 @@ On the day of the announcement, complete these tasks in the following order:
 4. Update the sponsor about the announcements.
 
 ### Update the Website
-Follow the steps below to add the sponsor's logo and company name to 'Our Sponsors' webpage (https://innersourcecommons.org/about/sponsors/).
+Follow the steps below to add the sponsor's logo and company name to [Sponsors page](https://innersourcecommons.org/about/sponsors/).
 
 - [ ] Rename the logo file of the new Sponsor as: [company_name].png
 - [ ] Upload this file in the static/images/logos folder on the website 
