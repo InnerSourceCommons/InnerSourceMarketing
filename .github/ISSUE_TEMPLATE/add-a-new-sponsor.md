@@ -4,6 +4,7 @@ about: This issue details the steps required when a new Sponsor joins ISC
 title: Adding [company name] as a sponsor to ISC
 labels: ISC OPS
 assignees: ''
+---
 
 ## Gathering contact details, logos and information from new sponsor
 Once a new sponsor is confirmed, an email address for a key contact will be shared with you by the Executive Director. At this point, you will be in charge of gathering the information needed for ongoing communications, updating the sponsor and content for ISC announcements.
