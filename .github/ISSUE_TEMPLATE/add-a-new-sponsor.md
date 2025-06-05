@@ -4,6 +4,7 @@ about: This issue details the steps required when a new Sponsor joins ISC
 title: Adding [company name] as a sponsor to ISC
 labels: ISC OPS
 assignees: ''
+
 ---
 
 ## Gathering contact details, logos and information from new sponsor
