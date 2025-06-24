@@ -1,88 +1,125 @@
 ---
-name: Gathering Checklist
-about: This is the checklist for planning a Gathering.
+name: Organizing the Gathering
+about: A supportive guide for creating YOUR InnerSource Gathering
 title: Gathering Planning - [CITY], [DATE]
 labels: events
 assignees: ''
-
 ---
+
+> [!IMPORTANT]
+> ## 🤝 This is YOUR Gathering
+>
+> **First things first:** This is YOUR community's event. You know what your local InnerSource practitioners need better than anyone. The Marketing WG is here to support and amplify your efforts, not to direct how you run it. We do have a few guidelines to ensure consistency across ISC events - please check those below.
+>
+> **Gathering Success = Your community connects, learns, and keeps the conversation going beyond the event.**
+>
+> New to organizing? Let's schedule a kickoff call to discuss your vision and how we can help. Just reach out in #local-community on Slack.
 
 # Gathering - [CITY] - [DATE]
 
 ## Event Details
-
-**📆 Date: 
-🗺 Venue Address:
-👯 Organizing Team:**
+**📆 Date:** [DD-MMM-YYYY]  
+**🗺 Venue Address:** [ADDRESS]  
+**🧙‍♀️ Your Organizing Team:**
  - InnerSourcerer 1
  - InnerSourcerer 2 
  - InnerSourcerer 3
 
-## Community Organizers' Checklist
+## Your Gathering Roadmap
 
-👉 **Start here:** [Gathering Guide for Organizers](https://github.com/InnerSourceCommons/foundation-governance/blob/master/how-to/gathering-organizers-guide.md#about-sponsorship)
+*Use this as a guide, not a rulebook. Every gathering is unique.*
 
-### 8-24 weeks before	the event	
- - [ ] Determine the day and time
- - [ ] Secure the event space with the venue
- - [ ] Notify @OliveCannon the event has been confirmed
- - [ ] "Call for Sponsorship" documentation prep
- - [ ] Start looking for sponsors
- - [ ] (Optional) CFP form preparation
- - [ ] Launch early bird registration through EventBrite
+### 8-24 weeks before - Setting Your Foundation
 
-### 7 weeks before
-- [ ] Finalize speaker lineup
-- [ ] Work with Marketing Team on translating social media posts (If needed)
+- [ ] Choose dates that work for your target audience
+- [ ] Book a venue that fits your community's needs
+- [ ] **🔴 REQUIRED:** Let @OliveCannon know once confirmed (so we can start supporting your promotion!)
+- [ ] Consider if you need sponsors (we can share templates if helpful - venue sponsors or catering sponsors are common options)
+- [ ] Create a Call for Proposals form if you want community-submitted sessions (you can also use an invitation-style approach instead of CFP)
+- [ ] Start building your speaker/facilitator network
+- [ ] **🟠 PLEASE SHARE:** Open registration when you're ready (ISC officially uses EventBrite, but you can use local platforms too - please consult us about account management)
+
+### 7 weeks before - Building Your Program
+
+- [ ] Shape the agenda based on your community's interests
+- [ ] If going multilingual, Marketing can help with translations for social media posts (if needed)
 - [ ] Confirm major sponsors
-- [ ] Update EventBrite registration page with speaker/schedule information
+- [ ] **🟠 PLEASE SHARE:** Update registration page with speaker/schedule information (if you need help creating a page, Marketing can support you)
 
-### 6 weeks before
-- [ ] Confirm catering choices with the venue / nearby providers (Make sure to provide options for those with dietary restrictions)
+### 6 weeks before - Practical Details
 
-### 5 weeks before
-- [ ]	Finalize event format
+- [ ] Arrange refreshments that work for your group (if you have food sponsors - Please make sure to provide options for those with dietary restrictions)
 
-### 3 weeks before	
-- [ ] Send reminder to registered attendees
-- [ ] Confirm technical requirement
-- [ ] Food and beverages and quantities finalization 
-- [ ] Finalize all logistics
-- [ ] Brief all staff and volunteers
+### 5 weeks before - Final Format
 
-### 2 weeks before	
-- [ ] Final venue walkthrough
-- [ ] Final registration push
+- [ ] Confirm your chosen format (conference, workshop, panel, unconference, etc.)
 
-### 1 week before	
-- [ ] Final speaker check-in
-- [ ] Prepare all materials	
-- [ ] Final attendee communications
-- [ ] Prepare emergency procedures
+### 3 weeks before - Engaging Your Community
 
-### Day of Event
+- [ ] Reach out to registered attendees with what to expect
+- [ ] Sort out technical needs for your venue
+- [ ] Finalize catering based on numbers (if you have sponsors) 
+- [ ] Get everything organized for the big day
+- [ ] Brief any helpers on how they can support
 
-- [ ] Execute according to plan
-- [ ] Document the event
-- [ ] Enjoy!
+### 2 weeks before - Almost There
 
-### 1-2 weeks after	
-- [ ] Send a "thank you" email to sponsors
-- [ ] Create and share a [brief report](https://gatherings.innersourcecommons.org/reports/)
+- [ ] Walk through your venue to spot any issues
+- [ ] Final push to fill remaining spots
 
+### 1 week before - Ready to Go
 
-## Marketing Team Checklist
+- [ ] Check in with speakers/facilitators
+- [ ] Prepare materials and signage
+- [ ] **🔴 REQUIRED:** Review ISC brand usage if using our logos (quick check with Marketing)
+- [ ] Send final details to attendees
+- [ ] Have a backup plan ready
 
-### Upon confirmation of Date, Time, and Venue
-- [ ] Create page on the Gathering Website (@OliveCannon)
-- [ ] Event Promotion: Newsletter (@ElizabethN)
-- [ ] Event Promotion: Socials (@OliveCannon)
-- [ ] Create Slide for the Gathering (@OliveCannon)
+### Day of Event - Make It Happen
 
-### 3-4 weeks before the event
-- [ ] Send box of stickers, etc to organizer
-- [ ] Continue Event Promotion (@OliveCannon)
+- [ ] Lead YOUR community gathering
+- [ ] Capture the energy (photos, key insights, quotes)
+- [ ] Connect people and facilitate discussions
+- [ ] Enjoy this moment you've created!
 
-### After the Event
-- [ ] Move event to "Past Events" on the Gathering Website
-- [ ] Promote Report on socials (@ElizabethN)
+### 1-2 weeks after - Keep the Momentum
+
+- [ ] Thank everyone who contributed
+- [ ] **🔴 REQUIRED:** Share a brief report on [gatherings site](https://gatherings.innersourcecommons.org/reports/)
+  - What kind of event was it?
+  - How engaged were the participants?
+  - What did your community learn?
+  - Photos that capture the spirit
+  - Tips for future organizers (please share your experience to help the next organizer)
+
+---
+
+## How Marketing WG Supports YOU
+
+*We're here when you need us:*
+
+### When you're ready to announce
+- [ ] We create your event page on the global gatherings site
+- [ ] We amplify through our newsletter and social channels
+- [ ] We provide templates and materials you can customize
+
+### Leading up to your event
+- [ ] We can ship ISC stickers and materials (just ask 3-4 weeks ahead)
+- [ ] We continue promoting to help you reach your audience
+
+### After your success
+- [ ] We showcase your gathering to inspire others
+- [ ] We share your insights with the global community
+
+---
+
+## 📋 The Essential Three
+
+While we want you to have freedom in organizing, these three things help us support you and maintain the InnerSource Commons community standards:
+
+1. **Tell us when it's happening and what you're planning** - So we can promote and support you
+2. **Check brand usage** - Quick review if using ISC logos/name
+3. **Share your story** - Brief report to help future organizers
+
+Everything else? That's up to you!
+
