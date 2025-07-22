@@ -102,6 +102,7 @@ assignees: ''
 - [ ] We create your event page on the global gatherings site
 - [ ] We amplify through our newsletter and social channels
 - [ ] We provide templates and materials you can customize
+- [ ] We provide an @innersourcecommons.org email for communications with attendees and speakers
 
 ### Leading up to your event
 - [ ] We can ship ISC stickers and materials (just ask 3-4 weeks ahead)
