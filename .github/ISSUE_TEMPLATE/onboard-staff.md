@@ -1,0 +1,13 @@
+---
+name: Onboard a staff member
+about: When a staff member joins the InnerSource Commons
+title: Onboard Staff Member
+assignees: rrrutledge
+
+---
+
+- [ ] Add to [staff team](https://github.com/orgs/InnerSourceCommons/teams/staff).
+- [ ] Add to [#innersource-marketing-team](https://app.slack.com/client/T04PXKRM0/C05KNQT26RK).
+- [ ] Add to [#flax-and-teal-isc](https://app.slack.com/client/T04PXKRM0/C04K4K6362C).
+- [ ] Add to weekly staff meeting.
+- [ ] Create `@innersourcecommons.org` email.
