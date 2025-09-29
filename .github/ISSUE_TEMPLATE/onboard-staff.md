@@ -12,3 +12,4 @@ assignees: rrrutledge
 - [ ] Create `@innersourcecommons.org` email.
 - [ ] Add to weekly staff meeting.
 - [ ] Share the [timesheet](https://docs.google.com/spreadsheets/d/1i0O0Y5CmHOg15R_RO45hgpLphZDgeEvJ) and [reimbursement instructions](https://github.com/InnerSourceCommons/foundation-governance/blob/master/how-to/bill-foundation.md).
+- [ ] Add to `info@` alias.
