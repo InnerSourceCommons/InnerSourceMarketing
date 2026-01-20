@@ -3,7 +3,7 @@ name: Organizing the Gathering
 about: A supportive guide for creating YOUR InnerSource Gathering
 title: Gathering Planning - [CITY], [DATE]
 labels: events
-assignees: ''
+assignees: Maryblessing
 ---
 
 > [!IMPORTANT]
