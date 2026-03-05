@@ -11,4 +11,5 @@ assignees: rrrutledge
 - [ ] Remove from [#flax-and-teal-isc](https://app.slack.com/client/T04PXKRM0/C04K4K6362C).
 - [ ] Remove from weekly staff meeting
 - [ ] Remove from [staff.md](https://github.com/InnerSourceCommons/foundation-governance/blob/master/roles/staff.md).
+- [ ] Remove as a YouTube account manager.
 - [ ] Decommission `@innersourcecommons.org` email.
