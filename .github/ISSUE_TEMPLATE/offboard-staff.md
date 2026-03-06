@@ -12,4 +12,5 @@ assignees: rrrutledge
 - [ ] Remove from weekly staff meeting
 - [ ] Remove from [staff.md](https://github.com/InnerSourceCommons/foundation-governance/blob/master/roles/staff.md).
 - [ ] Remove as a YouTube account manager.
+- [ ] Remove as a Slack admin.
 - [ ] Decommission `@innersourcecommons.org` email.
