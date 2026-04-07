@@ -14,7 +14,7 @@ assignees: Maryblessing
 >
 > Gathering Success = Your community connects, learns, and keeps the conversation going beyond the event.
 >
- > New to organizing? Kindly review the Gathering Organizer Guide before proceeding with this issue - it walks you through what an InnerSource Gathering is, how the Foundation supports you and key timelines.
+ > New to organizing? Kindly review the [Gathering Organizer Guide](https://bit.ly/InnerSource-Gathering-Guide) before proceeding with this issue - it walks you through what an InnerSource Gathering is, how the Foundation supports you, and key timelines.
 >
 > What the icons mean
 >
@@ -23,6 +23,8 @@ assignees: Maryblessing
 >
 > Planning Timeline 
 >We recommend starting to plan at least 8 weeks (2 months) ahead. Anything less and it becomes very hard to promote, secure sponsors, and give your community enough notice to attend.
+>
+>
 
 # The Essential Three
 While we want you to have freedom in organizing, these three things help us support you and maintain the InnerSource Commons community standards:
@@ -49,12 +51,12 @@ While we want you to have freedom in organizing, these three things help us supp
 
 - [ ] Choose dates that work for your target audience
 - [ ] Book a venue that fits your community's needs
-- [ ]**🔴REQUIRED:** Assign this issue to @Maryblessing the community manager, if not automatically assigned
+- [ ] **🔴REQUIRED:** Assign this issue to @Maryblessing the community manager, if not automatically assigned
 - [ ] Consider if you need sponsors and either reach out directly or call for sponsors (we can share templates if helpful — venue sponsors or catering sponsors are common options)
 - [ ] Create a Call for Proposals form if you want community-submitted sessions (you can also use an invitation-style approach instead of CFP)
-- [ ]**🔴REQUIRED:** Reach out to the community manager to set up the ticketing/registration platform (We use Eventbrite. Please flag it here if your gathering is a unique case that needs a local platform)
-- [ ]**🟠MILESTONE:** Webpage launch — the event page goes live with all the details available so far
-- [ ]**🟠MILESTONE:** Open registration
+- [ ] **🔴REQUIRED:** Reach out to the community manager to set up the ticketing/registration platform (We use Eventbrite. Please flag it here if your gathering is a unique case that needs a local platform)
+- [ ] **🟠MILESTONE:** Webpage launch — the event page goes live with all the details available so far
+- [ ] **🟠MILESTONE:** Open registration
 
 ### 7 weeks before - Building Your Program
 
@@ -63,8 +65,8 @@ While we want you to have freedom in organizing, these three things help us supp
 - [ ] If going multilingual, Marketing can help with translations for social media posts (if needed)
 - [ ] Confirm major sponsors
 - [ ] Call for or identify volunteers who can help on the ground or virtually during the event
-- [ ]**🟠MILESTONE:** Publish the agenda
-- [ ]**🟠MILESTONE:** Update registration page with speaker/schedule information
+- [ ] **🟠MILESTONE:** Publish the agenda
+- [ ] **🟠MILESTONE:** Update registration page with speaker/schedule information
 
 ### 6 weeks before - Practical Details
 
@@ -84,17 +86,17 @@ While we want you to have freedom in organizing, these three things help us supp
 
 ### 2 weeks before - Almost There
 
-- [ ] Visit your venue to spot any issues especially as it relates to accessibility
+- [ ] Visit your venue to spot any issues, especially as it relates to accessibility
 - [ ] Final push to fill remaining spots
 
 ### 1 week before - Ready to Go
 
 - [ ] Check in with speakers/facilitators
 - [ ] Prepare materials and signage
-- [ ] **🔴 REQUIRED:** Review ISC brand usage if using our logos (quick check with Marketing)
+- [ ] **🔴REQUIRED:** Review ISC brand usage if using our logos (quick check with Marketing)
 - [ ] Send final details to attendees
 - [ ] Have a backup plan ready
-- [ ]**🟠MILESTONE:** Close registration
+- [ ] **🟠MILESTONE:** Close registration
 
 ### Day of Event - Make It Happen
 
@@ -106,4 +108,4 @@ While we want you to have freedom in organizing, these three things help us supp
 ### 1-2 weeks after - Keep the Momentum
 
 - [ ] Thank everyone who contributed
-- [ ] **🔴 REQUIRED:** Share a brief report on [gatherings site](https://gatherings.innersourcecommons.org/reports/). Kindly review the Gathering Organizer Guide on what is expected
+- [ ] **🔴 REQUIRED:** Share a brief report on [gatherings site](https://gatherings.innersourcecommons.org/reports/). Kindly review the [Gathering Organizer Guide](https://bit.ly/InnerSource-Gathering-Guide) on what is expected
