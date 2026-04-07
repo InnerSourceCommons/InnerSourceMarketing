@@ -2,6 +2,7 @@
 name: Offboard a staff member
 about: When a staff member leaves the InnerSource Commons
 title: Offboard Staff Member
+labels: ''
 assignees: rrrutledge
 
 ---

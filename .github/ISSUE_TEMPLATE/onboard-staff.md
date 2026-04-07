@@ -2,6 +2,7 @@
 name: Onboard a staff member
 about: When a staff member joins the InnerSource Commons
 title: Onboard Staff Member
+labels: ''
 assignees: rrrutledge
 
 ---
