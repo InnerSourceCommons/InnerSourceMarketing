@@ -7,6 +7,7 @@ assignees: Maryblessing
 
 ---
 
+<!--
 > [!IMPORTANT]
 > 🤝 This is YOUR Gathering
 >
@@ -24,14 +25,14 @@ assignees: Maryblessing
 > Planning Timeline 
 >We recommend starting to plan at least 8 weeks (2 months) ahead. Anything less and it becomes very hard to promote, secure sponsors, and give your community enough notice to attend.
 >
->
+> The Essential Three
+> While we want you to have freedom in organizing, these three things help us support you and maintain the InnerSource Commons community standards:
 
-# The Essential Three
-While we want you to have freedom in organizing, these three things help us support you and maintain the InnerSource Commons community standards:
+> - Be DEI conscious in every decision you make: From speaker selection to venue accessibility, catering, scheduling, data collection, and language, keep diversity, equity, and inclusion at the heart of your planning.
+> - Check brand usage: Quick review if using ISC logos/name.
+> - Share your story: Brief report after the event to help future organizers.
 
-- Be DEI conscious in every decision you make: From speaker selection to venue accessibility, catering, scheduling, data collection and language, keep diversity, equity, and inclusion at the heart of your planning.
-- Check brand usage: Quick review if using ISC logos/name.
-- Share your story: Brief report after the event to help future organizers.
+-->
 
 # Gathering - [CITY] - [DATE]
 
