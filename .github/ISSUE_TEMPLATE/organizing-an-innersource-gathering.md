@@ -8,14 +8,10 @@ assignees: Maryblessing
 ---
 
 <!--
-> [!IMPORTANT]
+> [!IMPORTANT:]
 > 🤝 This is YOUR Gathering
 >
 > First things first: This is YOUR community's event. You know what your local InnerSource practitioners need better than anyone. The Foundation is here to support and amplify your efforts, not to direct how you run it.
->
-> Gathering Success = Your community connects, learns, and keeps the conversation going beyond the event.
->
- > New to organizing? Kindly review the [Gathering Organizer Guide](https://bit.ly/InnerSource-Gathering-Guide) before proceeding with this issue - it walks you through what an InnerSource Gathering is, how the Foundation supports you, and key timelines.
 >
 > What the icons mean
 >
@@ -25,13 +21,6 @@ assignees: Maryblessing
 > Planning Timeline 
 >We recommend starting to plan at least 8 weeks (2 months) ahead. Anything less and it becomes very hard to promote, secure sponsors, and give your community enough notice to attend.
 >
-> The Essential Three
-> While we want you to have freedom in organizing, these three things help us support you and maintain the InnerSource Commons community standards:
-
-> - Be DEI conscious in every decision you make: From speaker selection to venue accessibility, catering, scheduling, data collection, and language, keep diversity, equity, and inclusion at the heart of your planning.
-> - Check brand usage: Quick review if using ISC logos/name.
-> - Share your story: Brief report after the event to help future organizers.
-
 -->
 
 # Gathering - [CITY] - [DATE]
@@ -46,7 +35,7 @@ assignees: Maryblessing
 
 ## Your Gathering Roadmap
 
-*Use this as a guide, not a rulebook. Every gathering is unique.*
+*Use this as a guide, not a rulebook. Every Gathering is unique. New to organizing? Kindly review the [Gathering Organizer Guide](https://bit.ly/InnerSource-Gathering-Guide) before proceeding with this issue*
 
 ### 10 weeks before - Setting Your Foundation
 
@@ -105,6 +94,8 @@ assignees: Maryblessing
 - [ ] Capture the energy (photos, key insights, quotes)
 - [ ] Connect people and facilitate discussions
 - [ ] Enjoy this moment you've created!
+
+Gathering Success = Your community connects, learns, and keeps the conversation going beyond the event.
 
 ### 1-2 weeks after - Keep the Momentum
 
